@@ -108,9 +108,9 @@ btn.onclick = async () => {
 
                     break;
 
-                case "2":
+                case "4":
 
-                    status="REFUND";
+                    status="RIVIEW";
 
                     cls="failed";
 
